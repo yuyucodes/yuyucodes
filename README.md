@@ -2,11 +2,11 @@
 
 Student and developer @ Northeastern University, studying Computer Science and Design and my interest mainly centers around creating human-forward interfaces.
 
-I am currently working on Harborside, a campus-based marketplace where students can post listings of items and collectibles, and host auctions for them.
+Currently working on Harborside, a campus-based marketplace where students can post listings of items and collectibles, and host auctions for them.
 
 I am also looking for work opportunities in software, IT, and product design/management. Reach out to me at esyuec@gmail.com.
 
-Outside of school and work, currently, I am finishing Cyberpunk 2077, COD MW4, and hosting my personal Minecraft server.
+Outside of school and work, I am finishing Cyberpunk 2077, COD MW4, and hosting my personal Minecraft server.
 
 <!--
 **yuyucodes/yuyucodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
