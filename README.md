@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm [Esther](https://estherchen.xyz/), nice to meet you!
+## hi, i'm [esther](https://estherchen.xyz/), nice to meet you 👋
 
 I am a student and developer based in Boston, MA at Northeastern University. I'm studying Computer Science and Design and love creating human-forward interfaces.
 I am currently working on a campus-based marketplace where students can post listings of items and collectibles, and host auctions for them.
