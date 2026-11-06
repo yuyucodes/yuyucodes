@@ -1,11 +1,10 @@
 # hi, i'm [esther](https://estherchen.xyz/), nice to meet you 👋
-
+---
 Student and developer @ Northeastern University, studying Computer Science and Design and my interest mainly centers around creating human-forward interfaces.
-
+I am looking for work opportunities in software, IT, and product design/management. Reach out to me at esyuec@gmail.com.
+---
 Currently working on Harborside, a campus-based marketplace where students can post listings of items and collectibles, and host auctions for them.
-
-I am also looking for work opportunities in software, IT, and product design/management. Reach out to me at esyuec@gmail.com.
-
+---
 Outside of school and work, I am finishing Cyberpunk 2077, COD MW4, and hosting my personal Minecraft server.
 
 <!--
