@@ -1,11 +1,12 @@
-## hi, i'm [esther](https://estherchen.xyz/), nice to meet you 👋
+# hi, i'm [esther](https://estherchen.xyz/), nice to meet you 👋
 
-I am a student and developer based in Boston, MA at Northeastern University. I'm studying Computer Science and Design and love creating human-forward interfaces.
-I am currently working on a campus-based marketplace where students can post listings of items and collectibles, and host auctions for them.
+Student and developer @ Northeastern University, studying Computer Science and Design and my interest mainly centers around creating human-forward interfaces.
+
+I am currently working on Harborside, a campus-based marketplace where students can post listings of items and collectibles, and host auctions for them.
 
 I am also looking for work opportunities in software, IT, and product design/management. Reach out to me at esyuec@gmail.com.
 
-Currently, I am finishing Cyberpunk 2077, COD MW4, and hosting my personal Minecraft server.
+Outside of school and work, currently, I am finishing Cyberpunk 2077, COD MW4, and hosting my personal Minecraft server.
 
 <!--
 **yuyucodes/yuyucodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
